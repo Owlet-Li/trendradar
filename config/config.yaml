@@ -101,14 +101,14 @@ platforms:
     name: "bilibili 热搜"
   - id: "douyin"
     name: "抖音
-  - id: "cankaoxiaoxi"
-    name: "参考消息"
+  - id: "ifeng"
+    name: "凤凰网"
   - id: "baidu"
     name: "百度热搜
   - id: "toutiao"
     name: "今日头条"
   - id: "wallstreetcn-hot"
-    name: "华尔街见闻 最热"
+    name: "华尔街见闻"
   - id: "github"
     name: "GitHub"
   - id: "juejin"
